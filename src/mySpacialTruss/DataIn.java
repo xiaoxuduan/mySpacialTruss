@@ -7,6 +7,7 @@ import java.util.Scanner;
 /**
  * @description using Static is to avoid transfer parameter; It can be done by
  *              multi constructors as well;
+ *              This is unused, for the convenience of parameter transfer;
  * @author duan xiaoxu
  *
  */
